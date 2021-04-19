@@ -1,0 +1,84 @@
+.switch{
+    position: absolute;
+    border: 3px solid #376B83;
+    background-color: #376B83;
+    color: whitesmoke;
+    padding: 5px 10px;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.switch:hover{
+    opacity: 1;
+}
+
+.round{
+    border-radius: 8px;
+}
+
+.container{
+    position: absolute;
+}
+
+.map{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.location{
+    width: 9px;
+    height: 13px;
+    border-radius: 50%;
+}
+
+.Raptors{
+    transform: translate(3420%, -460%);
+}
+.Heat{
+    transform: translate(3385%, -370%);
+}
+.Mavericks{
+    transform: translate(2050%, -930%);
+}
+.Magic{
+    transform: translate(3130%, -530%);
+}
+.Spurs{
+    transform: translate(1690%, -600%);
+}
+.Nuggets{
+    transform: translate(1100%, -1700%);
+}
+.Pacers{
+    transform: translate(1000%, -100);
+}
+/*
+.Nets
+.Wizards
+.Warriors
+.Thunder
+.Grizzlies
+.Bucks
+.Kings
+.Pistons
+.Knicks
+.Blazers
+.Suns
+.Cavliers
+.Pelicans
+.Hornets
+.Clippers
+.Hawks
+.Timberwolves
+
+.Celtics{
+    transform: translate(4130%, -530%);
+}
+.Rockets
+.Bulls
+.Jazz
+.SSers 

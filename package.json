@@ -1,0 +1,14 @@
+{
+  "name": "nba-desktop-app",
+  "version": "1.0.0",
+  "description": "nba live score desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Eugene Oh",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^12.0.4"
+  }
+}
